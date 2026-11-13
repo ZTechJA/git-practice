@@ -5,4 +5,3 @@ This project demonstrates AWS Infrastructure management and automation using Ter
 
 S3 bucket configuration will be managed using Terraform.
 
-Boot
