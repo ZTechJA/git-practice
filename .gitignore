@@ -1,0 +1,15 @@
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+
+# Environment files
+.env
+.env.*
+
+# Credentials
+*.pem
+*.key
